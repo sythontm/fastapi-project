@@ -16,3 +16,4 @@ websockets==9.1
 wrapt==1.11.2
 uvloop==0.14.0
 telethon
+uvicorn
